@@ -1,38 +1,42 @@
 ---
 author: Lucas David Vadilho
-title: "Sobre"
-description: "Sobre o heyo"
+title: "About"
+description: "About heyo"
 date: 2023-08-01
 ---
 
-{{< theme >}} é um tema responsivo, minimalista e bonito para hugo. Ele foi baseado no [Anatole](https://github.com/lxndrblz/anatole) de Alexander Bilz.
+**現職：**
 
-## Features
+臺北榮民總醫院家庭醫學部 住院醫師
 
-- [x] [Imagens de capa](https://heyo-theme.oioipio.com/tw-tc/post/thumbnail/)
-- [x] [Visualizações](https://heyo-theme.oioipio.com/tw-tc/post/sketches/) in the sidebar
-- [x] [Índices](https://heyo-theme.oioipio.com/tw-tc/post/sketches/post/toc/) in the sidebar
-- [x] [Callout shortcode](https://heyo-theme.oioipio.com/post/tw-tc/callouts/)
-- [x] [Badges shortcode](http://localhost:1313/tw-tc/post/badges/)
-- [x] Tema escuro
-- [x] Suporte para CSS e JS customizados
-- [x] Suporte para [Multilinguas](https://gohugo.io/content-management/multilingual/) (inglês e tw-tc, por enquanto)
-- [x] [Open Graph](https://gohugo.io/templates/internal/#configure-open-graph) support
-- [ ] Soon™
+___
 
-## Quickstart
+**學歷：**
 
-Para testar o `exampleSite` é só:
+國防醫學院醫學系 醫學士
 
-```sh
-git clone https://github.com/LucasVadilho/heyo-hugo-theme heyo
-cd heyo/exampleSite && hugo server --themesDir ../..
-```
+___
 
-## Ao vivo
+**經歷：**
 
-Dá pra checar uma versão ao vivo em [heyo-theme.oioipio.com](http://heyo-theme.oioipio.com/).
+臺北榮民總醫院不分科住院醫師
 
-# Créditos
+___
 
-Todas as imagens nesse site de exemplo foram fornecido graciosamente por [TD Vadilho](https://www.tdvadilho.com/), você provavelmente gostaria do trabalho dele!
+**證照：**
+
+中華民國醫師證書  
+勞工體格與健康檢查醫師資格  
+長期照護專業人員Level 1訓練證明
+
+___
+
+**醫療專長：**
+
+家庭醫學
+
+___
+
+**語言專長：**
+
+國語、臺語、英語
