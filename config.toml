@@ -47,7 +47,7 @@ paginate = 10
   enable = true 
   displayOptions = true
   # Graph, Digital Rain, or Circles
-  use = "Digital Rain"
+  use = "Graph"
   # JSON that is passed to the sketch constructor
   # You can check all the possible configurations in
   startingConfig = """{
@@ -64,10 +64,10 @@ paginate = 10
   use = "mathjax"
 
 ## Social links
-[[params.socialIcons]]
-icon = "fab fa-linkedin" # Font-awesome icon
-title = "Linkedin"
-url = "https://linkedin.com/"
+# [[params.socialIcons]]
+# icon = "fab fa-linkedin" # Font-awesome icon
+# title = "Linkedin"
+# url = "https://linkedin.com/"
 
 # [[params.socialIcons]]
 # icon = "fab fa-github"
@@ -90,19 +90,19 @@ url = "mailto:galen1234@gmail.com"
 name = "Home"
 identifier = "home"
 weight = 100
-url = "/"
+url = "../"
 
 [[Languages.en.menu.main]]
 name = "Posts"
 weight = 200
 identifier = "posts"
-url = "/post/"
+url = "../post/"
 
 [[Languages.en.menu.main]]
 name = "About"
 weight = 300
 identifier = "about"
-url = "/about/"
+url = "../about/"
 
 [[Languages.tw-tc.menu.main]]
 name = "首頁"
