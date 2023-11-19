@@ -30,8 +30,8 @@ paginate = 10
 
 
 [params]
-  title = "王彥鈞 醫師"
-  author = "Galen Wang"
+  title = "CAT 醫師"
+  author = "Galen"
   description = "Call me Galen"
   profilePicture = "images/profile.png"
   favicon = "favicons/"
