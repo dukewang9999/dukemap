@@ -90,19 +90,19 @@ url = "mailto:galen1234@gmail.com"
 name = "Home"
 identifier = "home"
 weight = 100
-url = "../"
+url = "../en/"
 
 [[Languages.en.menu.main]]
 name = "Posts"
 weight = 200
 identifier = "posts"
-url = "../post/"
+url = "../en/post/"
 
 [[Languages.en.menu.main]]
 name = "About"
 weight = 300
 identifier = "about"
-url = "../about/"
+url = "../en/about/"
 
 [[Languages.tw-tc.menu.main]]
 name = "首頁"
