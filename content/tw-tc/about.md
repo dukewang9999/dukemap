@@ -3,6 +3,7 @@ author: Lucas David Vadilho
 title: "About"
 description: "About heyo"
 date: 2023-08-01
+showToc: true
 ---
 
 **現職：**

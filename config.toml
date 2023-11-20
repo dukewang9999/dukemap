@@ -39,7 +39,7 @@ paginate = 10
   customJs = []
   # displayMode = "dark"
   displayMode = "light"
-    # For Hugo's Open Graph
+  # For Hugo's Open Graph
   images = ['images/profile.png']
 
 # Sketch settings
